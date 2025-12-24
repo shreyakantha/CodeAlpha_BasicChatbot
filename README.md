@@ -59,14 +59,20 @@ Run the script :
 Below is a sample interaction with the chatbot :
 ```bash
 Bot: Hello! I'm a simple chatbot. Type 'bye' to exit.
-You: Hello
-Bot: Hi!
-You: How are you?
+You: hey
+Bot: Hey there!
+You: how are you?
 Bot: I'm fine, thanks! How are you?
-You: I am good
+You: fine
 Bot: Glad to hear that!
-You: Bye
-Bot: Goodbye
+You: tell me something about yourself
+Bot: I'm a simple rule-based chatbot, created using Python.
+You: great
+Bot: I don't understand that. Try 'hello', 'help', or 'bye'.
+You: help
+Bot: You can say hello, ask how I am, or type bye to exit.
+You: bye
+Bot: Goodbye!
 ```
 
 ## 🚀 Deployment
