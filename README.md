@@ -36,17 +36,18 @@ Build a basic rule-based chatbot that accepts user input such as greetings and s
 ---
 ## 📂 Project Structure
 ```bash
-CodeAlpha_BasicChatbot/
+basic-chatbot/
 ├── BasicChatbot.py     # Main Python chatbot script
-└── README.md           # Project documentation
+├── README.md           # Project documentation
+└── LICENSE             # MIT LICENSE
 ```
 ---
 ## 📥 Installation
 Clone the repository using Git :
 ```Bash
 git clone
-https://github.com/shreyakantha/CodeAlpha_BasicChatbot
-cd CodeAlpha_BasicChatbot
+https://github.com/shreyakantha/basic-chatbot
+cd basic-chatbot
 ```
 ## 🖥 Run Locally
 Run the script using :
@@ -57,7 +58,7 @@ Run the script using :
 ## 🎥 Demo
 A short demo video showing the chatbot interaction in the console. The demo covers user greetings, conversational responses, follow-up replies, and graceful termination using the exit command.
 
-[ ▶ click here to view the demo video of the basic chatbot ](https://github.com/shreyakantha/CodeAlpha_BasicChatbot/releases/tag/v1.0)
+[ ▶ click here to view the demo video of the basic chatbot ](https://github.com/shreyakantha/basic-chatbot/releases/tag/v1.0)
 
 ---
 ## 🗨️ Sample Interaction
@@ -149,6 +150,6 @@ This project was completed as ***The fourth task Basic Chatbot*** under the **Co
 ---
 ## 📌 Related Projects
 *The following projects were completed as part of the same **CodeAlpha internship** program and focus on strengthening core Python programming concepts.*
-- 🔗 [Hangman Game – Python fundamentals and control flow](https://github.com/shreyakantha/CodeAlpha_HangmanGame)
-- 🔗 [Stock Portfolio Tracker – Data processing using Python](https://github.com/shreyakantha/CodeAlpha_StockPortfolioTracker)
-- 🔗 [Email Extraction Automation – File handling and regular expressions in Python](https://github.com/shreyakantha/CodeAlpha_EmailExtractor)
+- 🔗 [Hangman Game – Python fundamentals and control flow](https://github.com/shreyakantha/hangman-console-game)
+- 🔗 [Stock Portfolio Tracker – Data processing using Python](https://github.com/shreyakantha/stock-portfolio-tracker)
+- 🔗 [Email Extraction Automation – File handling and regular expressions in Python](https://github.com/shreyakantha/email-extractor)
